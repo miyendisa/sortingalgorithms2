@@ -26,7 +26,7 @@
 
 n terimli bir dizi için Big-O Notation;
  
-$2^x$=$n$ 
+$2^x=n$ 
 
 $logn=x$
 
