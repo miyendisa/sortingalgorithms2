@@ -10,7 +10,7 @@
 
                 [16]   [21] [11]        [8]   [12] [22]
 
-* Dizi en küçük birimlere kadar parçalandıktan sonra, elemanları büyüklüklerine göre kıyaslayarak diziyi birleştirelim.
+* Dizi en küçük birimlere kadar parçalandıktan sonra, elemanların büyüklüklerine göre kıyaslayarak diziyi birleştirelim.
 
                [16]   [21] [11]          [8]   [12] [22]
 
