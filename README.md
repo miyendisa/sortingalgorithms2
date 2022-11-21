@@ -18,7 +18,7 @@ Projeyi clonelayın.
 Projeyi cloneladıktan sonra Visual Studio Code Programında açabilirsiniz.
 
 ```
-cd sortingalgorithms1
+cd sortingalgorithms2
 code .
 ```
 
